@@ -1,0 +1,11 @@
+#!/bin/bash
+ while read oldrev newrev ref
+ do
+   branch=`echo $ref | cut -d/ -f3`
+   if [ "master" == "$branch" ]; then
+     git --work-tree=/var/www/html/gitdir/bashtion/workdir checkout -f $branch
+     echo 'Changes pushed web server'
+     # under the hood, git use GIT_DIR to run all cammands within. In order to run the custom commands in custom directory we have to unset it (GIT_DIR)
+     cd /var/www/html/gitdir/bashtion/workdir && unset GIT_DIR && git add --a && git commit -a -m 'c' && git push origin $branch
+   fi
+ done
