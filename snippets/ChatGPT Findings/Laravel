@@ -1,0 +1,31 @@
+What topics should I prepare for the Laravel interview?
+-------------------------------------------------------
+Here are some common topics that you may want to prepare for a Laravel interview:
+
+Laravel basics: Understand the basics of the Laravel framework, including how to set up a new project, how to use controllers and views, and how to work with routes and middleware.
+
+Eloquent ORM: Understand how to use Eloquent, Laravel's Object-Relational Mapping (ORM) tool, to interact with a database.
+
+Blade templating engine: Understand how to use Blade, Laravel's built-in templating engine, to create views and layouts.
+
+Dependency injection: Understand the basics of dependency injection in Laravel and how to use it to manage dependencies in your application.
+
+Artisan command-line interface: Understand how to use Artisan, Laravel's command-line interface, to generate boilerplate code and perform common tasks.
+
+Security: Understand how Laravel handles security and how to prevent common vulnerabilities such as SQL injection, cross-site scripting, and cross-site request forgery.
+
+Unit testing: Understand how to write and run unit tests in Laravel using PHPUnit.
+
+Event handling: Understand how to use Laravel's event system to handle events in your application.
+
+Queues: Understand how to use Laravel's queue system to handle background jobs and improve application performance.
+
+Authentication and Authorization: Understand how to implement authentication and authorization in Laravel using the built-in features.
+
+Validation: Understand how to validate input data in Laravel using the built-in validation features.
+
+Experience: Be ready to talk about any experience you have working with Laravel, and the challenges you faced and how you overcame them.
+
+Familiarity with other tools and technologies: Laravel developers often work with other tools and technologies such as Vue.js, React, and AWS, be familiar with some of them.
+
+Familiarity with other frameworks: Understand how Laravel compares to other PHP frameworks like CodeIgniter, Yii and Zend Framework, and be ready to explain how you have used them in your projects.

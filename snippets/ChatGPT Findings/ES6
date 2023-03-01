@@ -1,0 +1,31 @@
+What topics should I prepare for the ES6 interview?
+---------------------------------------------------
+Here are some common topics that you may want to prepare for an ECMAScript 6 (ES6) interview:
+
+ES6 syntax: Understand the new syntax and features introduced in ES6, such as arrow functions, template literals, destructuring, and rest/spread operators.
+
+Variables: Understand the new variable declarations introduced in ES6, such as let and const.
+
+Classes: Understand how to use classes and inheritances in ES6
+
+Modules: Understand how to use modules in ES6, including how to import and export variables, functions, and classes.
+
+Promises: Understand how to use Promises to handle asynchronous code in ES6.
+
+Generators: Understand how to use generators in ES6, and how they allow for more expressive control flow.
+
+Maps and Sets: Understand how to use the new Map and Set objects in ES6, and how they differ from plain objects and arrays.
+
+Iterators and For-of: Understand how to use iterators and the for-of loop in ES6.
+
+Arrow functions: Understand how to use arrow functions in ES6 and how they differ from traditional function expressions.
+
+Default function parameter: Understand how to use default function parameter in ES6
+
+Array helper methods: Understand how to use array helper methods in ES6, such as map(), filter(), reduce(), and forEach().
+
+Experience: Be ready to talk about any experience you have working with ES6 and how you have used it in your projects.
+
+Familiarity with other tools and technologies: ES6 developers often work with other tools and technologies such as webpack, Babel, and TypeScript, be familiar with some of them.
+
+Familiarity with other versions of JS: Understand how ES6 differs from previous versions of JavaScript such as ES5, and be ready to explain how you have used them in your projects.

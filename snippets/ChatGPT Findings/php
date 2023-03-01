@@ -1,0 +1,30 @@
+PHP
+---
+
+What topics should I prepare for the PHP interview?
+---------------------------------------------------
+Here are some common topics that you may want to prepare for a PHP interview:
+
+Basic syntax and data types: Understand the basics of PHP syntax, variables, data types, and control structures.
+
+OOP: Know the concepts of object-oriented programming (OOP) in PHP, including classes, objects, inheritance, and polymorphism.
+
+Web concepts: Familiarize yourself with the basics of web development, such as HTTP, HTML, and CSS.
+
+PHP built-in functions: Know how to use some of the most commonly used PHP functions, such as array functions, string functions, and file handling functions.
+
+MySQL: Understand how to interact with a MySQL database using PHP, including connecting to a database, executing queries, and handling results.
+
+Security: Know the basics of web application security and how to prevent common vulnerabilities such as SQL injection and cross-site scripting.
+
+Frameworks: Know about popular PHP frameworks like Laravel, CodeIgniter, Yii, and be ready to explain how you have used them in your projects.
+
+Debugging and error handling: Understand how to debug and troubleshoot code, and how to handle errors and exceptions.
+
+Architecture: Understand the concepts of MVC (Model View Controller) and other related architecture that PHP based on.
+
+Experience: Be ready to talk about any experience you have working on PHP projects and the challenges you faced and how you overcame them.
+
+Familiarity with other languages: Many PHP developers work with other technologies such as JavaScript, HTML, CSS, and more.
+
+Familiarity with tools: PHP developers use a number of tools such as Git, Xdebug, Composer, and more, be familiar with some of them.

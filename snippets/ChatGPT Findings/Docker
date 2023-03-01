@@ -1,0 +1,26 @@
+What topics should I prepare for the Docker interview?
+------------------------------------------------------
+
+Here are some common topics that you may want to prepare for a Docker interview:
+
+Docker basics: Understand the basics of Docker, including its architecture, images, and containers. Understand the difference between virtual machines and containers.
+
+Docker usage: Understand how to use Docker to package, distribute, and run applications. Understand how to create and manage images, and how to use containers to deploy applications.
+
+Docker Compose: Understand how to use Docker Compose to define and run multi-container applications. Understand how to use Compose files to configure and link services, and how to use Compose commands to start, stop and inspect services.
+
+Docker Networking: Understand how to use Docker networking to connect containers and services, understand how to create and manage networks, and how to use DNS service discovery.
+
+Docker Volumes: Understand how to use Docker Volumes to manage persistent data in containers. Understand how to create and manage volumes, and how to mount host directories or storage into containers.
+
+Docker Swarm: Understand how to use Docker Swarm to create and manage a cluster of Docker Engines. Understand how to use Swarm commands to deploy and scale services, and how to use swarm mode to create and manage a swarm.
+
+Docker security: Understand how to secure a Docker deployment, including the use of security features such as user namespaces, seccomp and AppArmor profiles, and how to use Docker secrets and configs to store sensitive data.
+
+Docker in production: Understand the best practices for running and managing Docker in production, including how to monitor and troubleshoot containers, and how to use orchestration platforms such as Kubernetes to manage and scale Docker deployments.
+
+Experience: Be ready to talk about any experience you have working with Docker, and the challenges you faced and how you overcame them.
+
+Familiarity with other tools and technologies: Docker developers often work with other tools and technologies such as Kubernetes, Ansible, and Jenkins, be familiar with some of them.
+
+Familiarity with cloud providers: Understand the basics of popular cloud providers

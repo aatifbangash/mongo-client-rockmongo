@@ -1,0 +1,23 @@
+What topics should I prepare for the RabbitMQ interview?
+--------------------------------------------------------
+Here are some common topics that you may want to prepare for a RabbitMQ interview:
+
+RabbitMQ basics: Understand the basics of RabbitMQ, including message queues, exchanges, bindings, and routing keys. Understand the difference between RabbitMQ and other messaging systems like Kafka and Redis.
+
+Messaging patterns: Understand the different messaging patterns that can be used with RabbitMQ, including point-to-point, publish-subscribe, and request-response.
+
+Exchanges: Understand how to use different types of exchanges in RabbitMQ, including direct, fanout, topic, and headers.
+
+Queues: Understand how to create and manage queues in RabbitMQ, including queue durability and auto-deletion.
+
+Bindings: Understand how to create bindings between exchanges and queues in RabbitMQ.
+
+Routing: Understand how routing keys and bindings are used to route messages in RabbitMQ.
+
+Federation and Shovel: Understand how to use RabbitMQ's federation and shovel plugins to connect multiple RabbitMQ clusters.
+
+Security: Understand how to secure a RabbitMQ deployment, including the use of SSL/TLS and user authentication.
+
+Performance tuning: Understand how to tune a RabbitMQ deployment for performance, including the use of connection and channel pooling, and message batching.
+
+Monitoring: Understand how to use RabbitMQ's management interface and other

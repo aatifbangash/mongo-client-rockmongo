@@ -1,0 +1,20 @@
+git init // initiate the git in the current directory
+git add . // add all of the files of the current directory to the stage of the git
+
+git status // check the status of the file changes in the current directory
+
+git commit -m 'any comment regarding the changes' // commit changes to the stage along with the descriptive message.
+
+git remote origin git@github.com:aatifbangash/project.git // add remote repo as an origin to the current git directory 
+
+git pull origin master // pull all the changes from the origin (origin represent the remote repo)
+
+git push -u origin master // upstream the branch and push changes to the remote origin (origin represent the remote reop)
+
+git diff // see the difference between old and new commit
+
+git log // see the git logs information
+
+git reset --hard COMMIT_ID // undo the changes to specified commit 
+
+git rm --cached filename.html // remove the commited file from the stage

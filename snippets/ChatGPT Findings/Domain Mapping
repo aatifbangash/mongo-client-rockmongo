@@ -1,0 +1,25 @@
+What topics should I prepare for the Domain DNS and Hosting interview?
+-----------------------------------------------------------------------
+Here are some common topics that you may want to prepare for a Domain DNS and Hosting interview:
+
+DNS basics: Understand the basics of Domain Name System (DNS), including how DNS works, the structure of a DNS zone, and the types of DNS records.
+
+DNS management: Understand how to manage DNS records, including creating, updating and deleting DNS records, and understanding of the DNS propagation process.
+
+Hosting basics: Understand the basics of web hosting, including the different types of hosting (shared, VPS, dedicated, cloud) and the difference between them.
+
+Hosting management: Understand how to manage a web hosting account, including creating and managing databases, setting up email accounts, and controlling access to the hosting account.
+
+Hosting security: Understand how to secure a web hosting account, including protecting against hacking and DDoS attacks, and how to implement SSL/TLS certificates.
+
+Domain registration: Understand how to register and manage domain names, including understanding the difference between top-level domains (TLDs) and domain registrars.
+
+Email hosting: Understand how to set up and manage email hosting, including creating email accounts and configuring email clients.
+
+CDN: Understand the basics of content delivery networks (CDNs) and how they can be used to improve website performance.
+
+Experience: Be ready to talk about any experience you have working with DNS and hosting, and the challenges you faced and how you overcame them.
+
+Familiarity with other tools and technologies: DNS and hosting developers often work with other tools and technologies such as cPanel, WHM, and Plesk, be familiar with some of them.
+
+Familiarity with cloud providers: Understand the basics of popular cloud providers such as AWS, Azure, and GCP and how they can be used for hosting and DNS management.

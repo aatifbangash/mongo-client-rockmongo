@@ -1,0 +1,29 @@
+What topics should I prepare for the MongoDB interview?
+--------------------------------------------------------
+Here are some common topics that you may want to prepare for a MongoDB interview:
+
+MongoDB basics: Understand the basics of MongoDB, including the document-oriented data model, the MongoDB query language, and the use of primary and secondary indexes.
+
+Data modeling: Understand how to design and model data for MongoDB, including the use of embedded documents and arrays.
+
+CRUD operations: Understand how to create, read, update, and delete data in MongoDB, including the use of the find(), findOne(), update(), and remove() methods.
+
+Aggregation: Understand how to use MongoDB's aggregation framework to perform complex data analysis and reporting.
+
+Indexing: Understand how to create and use indexes in MongoDB, including the use of single-field, compound, and text indexes.
+
+Replication: Understand how to set up and maintain a MongoDB replica set, including the use of primary, secondary, and arbiter nodes.
+
+Sharding: Understand how to set up and use MongoDB sharding to horizontally scale a MongoDB deployment.
+
+Backup and recovery: Understand how to back up and restore a MongoDB deployment, including the use of the mongodump and mongorestore utilities.
+
+Security: Understand how to secure a MongoDB deployment, including the use of authentication and authorization mechanisms.
+
+Performance tuning: Understand how to tune a MongoDB deployment for performance, including the use of indexes, the explain() method, and other performance-related tools.
+
+Experience: Be ready to talk about any experience you have working with MongoDB, and the challenges you faced and how you overcame them.
+
+Familiarity with other databases: Many MongoDB developers have experience working with other databases such as MySQL, PostgreSQL, and Oracle, be ready to explain your experience in working with other databases.
+
+Familiarity with tools: MongoDB developers use a number of tools such as MongoDB Compass, Robomongo, and Studio 3T, be familiar with some of them.
